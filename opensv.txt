@@ -1,0 +1,4 @@
+@echo on
+cd /d "C:\Users\Admin\StudioProjects\BACKEND"
+node server.js
+pause

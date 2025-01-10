@@ -1,0 +1,3 @@
+**npm i express body-parser cors multer path express-handlebars dotenv mongodb mongoose bcrypt jsonwebtoken dotenv cookie-parser
+thư viện chạy sv tự save
+**npm i -g nodemon
